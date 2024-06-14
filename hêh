@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Điều Hoà Không Khí</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Điều Hoà Không Khí</h1>
+        <div class="ac-controller">
+            <div id="ac-status" class="status off">Tắt</div>
+            <button id="ac-toggle">Bật/Tắt</button>
+        </div>
+    </div>
+    <script src="scripts.js"></script>
+</body>
+</html>
